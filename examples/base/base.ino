@@ -11,7 +11,7 @@
  */
 #include <DFRobot_Stepper.h>
 
-// The 28BYJ-48 stepper motor takes 4096 steps per revolution
+// The 28YBJ-48 stepper motor takes 4096 steps per revolution
 #define STEPS 4096
 
 DFRobot_Stepper stepper(STEPS, 8, 9, 10, 11);
