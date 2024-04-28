@@ -2,7 +2,7 @@
 
 * [中文](./README_CN.md)
 
-This stepper motor library is a driver written for using ULN2003 with 28BYJ48 stepper motor.
+This stepper motor library is a driver written for using ULN2003 with 28YBJ48 stepper motor.
 
 
 ## Product Link（[https://www.dfrobot.com.cn/](https://www.dfrobot.com.cn/)）
