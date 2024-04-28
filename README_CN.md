@@ -3,7 +3,7 @@ DFRobot_Stepper
 
 * [English Version](./README.md)
 
-该步进电机库是为使用 ULN2003搭配28BYJ48步进电机而编写的驱动程序。
+该步进电机库是为使用 ULN2003搭配28YBJ48步进电机而编写的驱动程序。
 
 
 ## 产品链接（[https://www.dfrobot.com.cn](https://www.dfrobot.com.cn)）
