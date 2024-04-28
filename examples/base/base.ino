@@ -1,6 +1,6 @@
 /*!
  * @file base.ino
- * @brief Example driver for the 28BYJ-48 stepper motor
+ * @brief Example driver for the 28YBJ-48 stepper motor
  * @n This example can control the step speed, direction, and rotation speed of the stepper motor
  * @copyright   Copyright (c) 2024 DFRobot Co.Ltd (http://www.dfrobot.com)
  * @license     The MIT License (MIT)
